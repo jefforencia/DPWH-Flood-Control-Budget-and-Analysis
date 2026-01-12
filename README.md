@@ -14,22 +14,3 @@ In large-scale infrastructure projects like those managed by the Department of P
 ![PDF Preview](./assets/dp_7.jpg)
 ![PDF Preview](./assets/dp_8.jpg)
 
-Click the image above to view the full PDF
-
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| [sample.pdf](./sample.pdf) | Project documentation |
-| [sample.csv](./sample.csv) | Dataset |
-| [notebook.ipynb](./notebook.ipynb) | Jupyter notebook with analysis |
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Open the Jupyter notebook
-3. Run the cells to analyze sample.csv
-
----
-
-Made with ❤️
