@@ -11,8 +11,8 @@ In large-scale infrastructure projects like those managed by the Department of P
 ![PDF Preview](./assets/dp_4.jpeg)
 ![PDF Preview](./assets/dp_5.jpeg)
 ![PDF Preview](./assets/dp_6.jpeg)
-![PDF Preview](./assets/dp_7.jpeg)
-![PDF Preview](./assets/dp_8.jpeg)
+![PDF Preview](./assets/dp_7.jpg)
+![PDF Preview](./assets/dp_8.jpg)
 
 Click the image above to view the full PDF
 
